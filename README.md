@@ -1,2 +1,0 @@
-# DiscordBot
- MultiTool Bot
